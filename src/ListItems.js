@@ -1,5 +1,6 @@
 import React from 'react'
 import './ListItems.css'
+import { FontAwesomeIcon } from '@fortawesome/react-fontawesome'
 
 function ListItems(props){
     const items = props.items
