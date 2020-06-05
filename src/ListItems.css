@@ -9,6 +9,8 @@
 
 .list p{
     padding: 10px;
+    position: relative;
+    transition: ease-in-out;
 }
 
 .list p span{
